@@ -1,0 +1,7 @@
+
+# System Configuration
+port = 8080
+threads= 16
+monitor_level = CRITICAL
+
+# End of file
