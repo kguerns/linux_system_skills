@@ -2,8 +2,6 @@
 # Create and parse a simple configuration file and output configuration 
 # key-value pairs
 
-import subprocess
-
 def parse_config(filename):
     config_dict = {}
 
